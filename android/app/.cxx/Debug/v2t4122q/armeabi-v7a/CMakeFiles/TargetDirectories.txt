@@ -1,0 +1,2 @@
+D:/New folder (4)/New folder/00. BIG 5/ai_student_assistant/android/app/.cxx/Debug/v2t4122q/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/New folder (4)/New folder/00. BIG 5/ai_student_assistant/android/app/.cxx/Debug/v2t4122q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
